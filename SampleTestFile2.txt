@@ -3,3 +3,4 @@ This is Sample file 2
 
 git revert test one
 This is the comparison lecture, change in file 2
+Stash lecture, change in file 2
