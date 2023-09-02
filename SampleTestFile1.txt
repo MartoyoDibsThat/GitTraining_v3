@@ -8,3 +8,4 @@ git revert change 2
 This is the comparison lecture
 
 Stash lecture, change in file 1
+Stash lecture for untracked files in File 1
