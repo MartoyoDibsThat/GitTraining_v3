@@ -2,3 +2,4 @@ This is Sample file 1
 
 git revert change 2
 
+This is the comparison lecture
